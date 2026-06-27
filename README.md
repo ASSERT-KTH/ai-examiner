@@ -7,7 +7,8 @@ The student runs the prompt and reports to me the full transcript and the exact 
 
 ## Protocol
 
-The student runs the prompt in this repo on their PDF and reports the full transcript and the exact model used over email.
+* The student runs the prompt in this repo on their PDF and reports the full transcript and the exact model used over email.
+* The student runs [check-hallucinations](https://pypi.org/project/check-hallucinations/) on the bibtex file.
 
 ## Rationales
 
