@@ -12,7 +12,7 @@ The student runs the prompt and reports to me the full transcript and the exact 
 
 ## Rationales
 
-I've given hundred of times the same feedback on theses. Students, and it's OK, do many common mistakes in the learning path.
+I've given hundred of times the same feedback on theses. Students do many common mistakes in their learning path, and it's OK.
 
 We this protocol:
 - students get better feedback: faster, more elaborated, as many times as they need
